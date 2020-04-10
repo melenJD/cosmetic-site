@@ -386,7 +386,7 @@ nav {
 }
 
 .item:nth-child(2) .item-blossom {
-  filter: brightness(170%);
+  filter: brightness(200%);
 }
 
 .texts {
